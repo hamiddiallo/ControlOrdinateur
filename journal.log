@@ -1,0 +1,32 @@
+mars 23, 2025 4:38:57 PM serveur.ClientCommandLogger logConnection
+INFOS: Client connecté: 127.0.0.1
+mars 23, 2025 4:38:58 PM serveur.ClientCommandLogger logCommand
+INFOS: Commande reçue de 127.0.0.1: Client authentifié: 127.0.0.1 (Login: hamid)
+mars 23, 2025 4:39:10 PM serveur.ClientCommandLogger logCommand
+INFOS: Commande reçue de 127.0.0.1: ls
+mars 23, 2025 4:39:26 PM serveur.ClientCommandLogger logConnection
+INFOS: Client connecté: 192.168.1.122
+mars 23, 2025 4:39:26 PM serveur.ClientCommandLogger logCommand
+INFOS: Commande reçue de 192.168.1.122: Client authentifié: 192.168.1.122 (Login: isaac)
+mars 23, 2025 4:39:48 PM serveur.ClientCommandLogger logCommand
+INFOS: Commande reçue de 192.168.1.122: pwd
+mars 23, 2025 4:40:10 PM serveur.ClientCommandLogger logCommand
+INFOS: Commande reçue de 192.168.1.122: UPLOAD Audit_Reseau.rtf
+mars 23, 2025 4:40:10 PM serveur.ClientCommandLogger logCommand
+INFOS: Commande reçue de 192.168.1.122: Prêt à recevoir le fichier Audit_Reseau.rtf
+mars 23, 2025 4:40:10 PM serveur.ClientCommandLogger logCommand
+INFOS: Commande reçue de 192.168.1.122: Début de la réception du fichier : Audit_Reseau.rtf
+mars 23, 2025 4:40:10 PM serveur.ClientCommandLogger logCommand
+INFOS: Commande reçue de 192.168.1.122: Marqueur de fin de fichier reçu
+mars 23, 2025 4:40:10 PM serveur.ClientCommandLogger logCommand
+INFOS: Commande reçue de 192.168.1.122: Fin de la réception du fichier : Audit_Reseau.rtf
+mars 23, 2025 4:40:10 PM serveur.ClientCommandLogger logDisconnection
+INFOS: Client déconnecté: 192.168.1.122
+mars 23, 2025 4:41:29 PM serveur.ClientCommandLogger logConnection
+INFOS: Client connecté: 127.0.0.1
+mars 23, 2025 4:41:29 PM serveur.ClientCommandLogger logCommand
+INFOS: Commande reçue de 127.0.0.1: Client authentifié: 127.0.0.1 (Login: hamid)
+mars 23, 2025 4:41:31 PM serveur.ClientCommandLogger logConnectionError
+GRAVE: Erreur de connexion du client 127.0.0.1: Erreur de communication: Socket closed
+mars 23, 2025 4:41:31 PM serveur.ClientCommandLogger logDisconnection
+INFOS: Client déconnecté: 127.0.0.1
